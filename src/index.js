@@ -3,10 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Story from './components/story';
+import 'bootstrap/dist/css/bootstrap.css';
+import Stories from './components/stories';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <Stories />
   </React.StrictMode>,
   document.getElementById('root')
 );
