@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/googlestories/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/googlestories/static/js/main.c356e4db.chunk.js",
+    "main.js.map": "/googlestories/static/js/main.c356e4db.chunk.js.map",
+    "runtime-main.js": "/googlestories/static/js/runtime-main.745d677c.js",
+    "runtime-main.js.map": "/googlestories/static/js/runtime-main.745d677c.js.map",
+    "static/css/2.1f208231.chunk.css": "/googlestories/static/css/2.1f208231.chunk.css",
+    "static/js/2.e52a0110.chunk.js": "/googlestories/static/js/2.e52a0110.chunk.js",
+    "static/js/2.e52a0110.chunk.js.map": "/googlestories/static/js/2.e52a0110.chunk.js.map",
+    "static/js/3.421f88b0.chunk.js": "/googlestories/static/js/3.421f88b0.chunk.js",
+    "static/js/3.421f88b0.chunk.js.map": "/googlestories/static/js/3.421f88b0.chunk.js.map",
+    "index.html": "/googlestories/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/googlestories/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/googlestories/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.e52a0110.chunk.js.LICENSE.txt": "/googlestories/static/js/2.e52a0110.chunk.js.LICENSE.txt",
+    "static/media/heart.8244a5dd.svg": "/googlestories/static/media/heart.8244a5dd.svg",
+    "static/media/heartfilled.1d9779ed.svg": "/googlestories/static/media/heartfilled.1d9779ed.svg",
+    "static/media/logo.6ce24c58.svg": "/googlestories/static/media/logo.6ce24c58.svg",
+    "static/media/menu.3f855197.svg": "/googlestories/static/media/menu.3f855197.svg",
+    "static/media/share.e17297f6.svg": "/googlestories/static/media/share.e17297f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.745d677c.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.e52a0110.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c356e4db.chunk.js"
+  ]
+}
