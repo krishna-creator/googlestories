@@ -7,7 +7,7 @@ class Stories extends Component {
         stories:[
             {
                 id:1,
-                img:"/images/s1.jpeg",
+                img:"images/s1.jpeg",
                 header:"Anushka Sharma cradles her baby bump as she stuns in polka dot dress in new photo.",
                 paragraph:"Anushka Sharma has been sharing stunning photos with her baby bump. Today, she drop...",
                 channel:"News18",
