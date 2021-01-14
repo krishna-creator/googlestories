@@ -70,13 +70,14 @@ class Stories extends Component {
             window.location.reload();
         }
      }
-     shuffle=(a)=>{
-        for (let i = a.length - 1; i > 0; i--) {
+     componentDidMount(){
+         let a=this.state.stories;
+         for (let i = a.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * a.length);
             [a[i], a[j]] = [a[j], a[i]];
         }
-         return a;
-    }
+         this.setState({a:this.state.stories});
+     }
     render() { 
         this.shuffle(this.state.stories);
         return ( 
